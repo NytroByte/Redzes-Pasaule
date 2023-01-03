@@ -8,7 +8,7 @@ function Contacts() {
                     </div>
                     <div className="parContacts">
                         <p>Ar mums var sazināties zvanot pa telefona numuru
-                        vai uzrakstot e-pastu.
+                        vai uzrakstot e-pastu. Pieteikšanās notiek zvanot pa telefonu un iepriekšēji pierakstoties.
                         </p>
                     </div>
                     <div className="socials">
